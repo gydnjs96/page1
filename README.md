@@ -1,10 +1,1 @@
-# page1
-![3](https://user-images.githubusercontent.com/54832405/67750539-be740100-fa72-11e9-87a0-f5418ad44443.jpg)
-![activity](https://user-images.githubusercontent.com/54832405/67750540-bf0c9780-fa72-11e9-90bd-5975b0d4a04f.jpg)
-![beer](https://user-images.githubusercontent.com/54832405/67750542-bf0c9780-fa72-11e9-8417-af10493e2360.jpg)
-![building](https://user-images.githubusercontent.com/54832405/67750543-bfa52e00-fa72-11e9-97ea-3642674a1fab.jpg)
-![food](https://user-images.githubusercontent.com/54832405/67750544-bfa52e00-fa72-11e9-9f4f-5273dc903e2b.jpg)
-![sky](https://user-images.githubusercontent.com/54832405/67750546-c03dc480-fa72-11e9-8744-3185f740bf27.jpg)
-![spot](https://user-images.githubusercontent.com/54832405/67750548-c0d65b00-fa72-11e9-880e-36f7a2015b9c.jpg)
-![1](https://user-images.githubusercontent.com/54832405/67750552-c2a01e80-fa72-11e9-9233-620490d5245e.jpg)
-![2](https://user-images.githubusercontent.com/54832405/67750553-c338b500-fa72-11e9-9ee6-fde0b47f885e.jpg)
+
